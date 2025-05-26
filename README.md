@@ -20,13 +20,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>🎯 Top 5 Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1. **Establish Secure and Organized System Access**
+   - Differentiate access for Admins, Agents, and End Users.
+   - Confirm URLs for the Admin Panel and End User Portal.
+   - Ensure system access is role-appropriate and secure.
+
+2. **Define Roles, Departments, and Teams**
+   - Create custom **Roles** to control permission levels.
+   - Configure **Departments** to manage ticket visibility.
+   - Set up **Teams** to collaborate across departments.
+
+3. **Enable Public Ticket Submission and Manage User Access**
+   - Adjust settings to allow unregistered users to create tickets.
+   - Register and manage **Users** (customers) and **Agents** (support staff).
+
+4. **Implement Service Level Agreements (SLAs)**
+   - Define SLA plans with appropriate grace periods and schedules.
+   - Assign SLAs to ensure timely ticket resolution and prioritization.
+
+5. **Create Custom Help Topics to Streamline Ticket Creation**
+   - Design Help Topics that reflect common user issues.
+   - Guide users through consistent and categorized ticket submissions.
 
 <h2>Configuration Steps</h2>
 
