@@ -42,8 +42,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kn4IWcA.png" height="80%" width="80%"
 </p>
+   
 1. System Setup and Access Configuration
 
 - **Access Points:**
