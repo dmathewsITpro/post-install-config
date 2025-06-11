@@ -57,7 +57,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/57CF415.png" height="80%" width="80%"
+<img src="https://i.imgur.com/wFmVeTu.png" height="80%" width="80%"
 </p>
    
 2. Organizational Structure and Permissions
